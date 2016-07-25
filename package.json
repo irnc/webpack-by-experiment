@@ -1,0 +1,15 @@
+{
+  "name": "webpack-by-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Pavel Zubkou",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
