@@ -10,4 +10,6 @@ module.exports = {
     publicPath: '/assets/',
     filename: 'bundle.js',
   },
+  // Serve source maps from webpack-dev-server.
+  devtool: 'source-map',
 };
