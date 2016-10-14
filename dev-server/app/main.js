@@ -1,0 +1,1 @@
+alert('app/main.js');
