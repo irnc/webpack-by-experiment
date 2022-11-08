@@ -10,6 +10,6 @@
   "author": "Pavel Zubkou",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.13.1"
+    "webpack": "^5.74.0"
   }
 }
